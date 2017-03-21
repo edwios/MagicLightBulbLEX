@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4B249B8CAB37DC5BAB53113F0C8CAD1CDF8FF8E6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "96F3CDD18CCDF4F29CE9334C8BED1C1C468DDFA1" : 9223372036854775807,
+    "4B249B8CAB37DC5BAB53113F0C8CAD1CDF8FF8E6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8C1F8E16-1948-4160-9F28-5B9192048B6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "96F3CDD18CCDF4F29CE9334C8BED1C1C468DDFA1" : "..",
+    "4B249B8CAB37DC5BAB53113F0C8CAD1CDF8FF8E6" : "MagicLightBulbLEX\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MagicLightLEX",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MagicLightLEX.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/edwios\/MagicLightLEX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B249B8CAB37DC5BAB53113F0C8CAD1CDF8FF8E6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/edwios\/nRF5_WS2812B.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96F3CDD18CCDF4F29CE9334C8BED1C1C468DDFA1"
+    }
+  ]
+}
