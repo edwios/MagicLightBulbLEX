@@ -1,9 +1,10 @@
 //
 //  MyWindowController.swift
-//  MagicLightLEX
+//  MagicLightBulbLEX
 //
 //  Created by Edwin Tam on 31/12/2016.
 //  Copyright © 2016 ioStation Ltd. All rights reserved.
+//  Adopted from MagicLightLEX for LED Lamps
 //
 
 import Cocoa
